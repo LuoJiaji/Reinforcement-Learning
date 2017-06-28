@@ -23,7 +23,7 @@ RL = DeepQNetwork(n_actions=env.action_space.n,
                   learning_rate=0.01, e_greedy=0.9,
                   replace_target_iter=100, memory_size=2000,
                   e_greedy_increment=0.001,
-                  output_graph=True)
+                  output_graph=False)
 
 total_steps = 0
 
