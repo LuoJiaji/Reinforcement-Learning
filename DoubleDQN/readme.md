@@ -1,4 +1,4 @@
 
 # Double DQN
 
-![](https://github.com/LuoJiaji/Reinforcement-Learning/DoubleDQN/Double DQN.PNG)
+![](https://github.com/LuoJiaji/Reinforcement-Learning/blob/master/DoubleDQN/Double%20DQN.PNG)
